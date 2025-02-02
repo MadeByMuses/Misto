@@ -1,0 +1,14 @@
+{
+    "version":"0.1.0",
+    "name":"Tiny Town",
+    "money":500000,
+    "people":[
+    ],
+    "businesses":[
+    ],
+    "policies":{
+        "electricitygrant": false,
+        "watergrant":false,
+        "housinginitiative":false
+    }
+}

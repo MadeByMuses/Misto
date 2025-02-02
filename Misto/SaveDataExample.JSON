@@ -1,0 +1,17 @@
+{
+    "version":"0.1.0",
+    "name":"City of Dreams",
+    "money":50000,
+    "people":[
+        {"name":"John Doe","age":30,"happiness":10,"wealthIndex":8,"locationOfWork":"TechCorp"}
+    ],
+    "businesses":[
+        {"name":"TechCorp","industry":"Technology","type":"Factory","profitabilityIndex":9,"staffCapacity":100,"staffHired":80},
+        {"name":"TechCorp","industry":"Technology","type":"Factory","profitabilityIndex":9,"staffCapacity":100,"staffHired":80}
+    ],
+    "policies":{
+        "electricitygrant": false,
+        "watergrant":false,
+        "housinginitiative":false
+    }
+}
